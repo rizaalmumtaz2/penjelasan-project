@@ -11,8 +11,8 @@ Program menghitung semua total pembelian
 Program menghitung pajak
 Program Menghitung diskon
 Program menampilkan semua total yang harus dibayarkan
-Nama Kelompok
 
-M. Rifai
-Riza al mumtaz
+Nama 
+Riza 
 Bian
+Rifai
